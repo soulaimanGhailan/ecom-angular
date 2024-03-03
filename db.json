@@ -1,0 +1,12 @@
+{
+  "products": [
+    {"id": 1,"name": "Computer","price": 60000,"quantity": 12 , "available": true},
+    {"id": 2,"name": "Printer","price": 1200,"quantity": 10, "available": false},
+    {"id": 3,"name": "Smartphone","price": 2000,"quantity": 32 , "available": true}
+  ],
+  "cccccc": [
+    {"id": 1,"name": "Computer","price": 60000,"quantity": 12 , "available": true},
+    {"id": 2,"name": "Printer","price": 1200,"quantity": 10, "available": false},
+    {"id": 3,"name": "Smartphone","price": 2000,"quantity": 32 , "available": true}
+  ]
+}
