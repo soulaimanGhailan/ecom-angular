@@ -25,9 +25,24 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css" ,
+              "src/assets/template/css/animate.css",
+              "src/assets/template/css/bootsnav.css",
+              "src/assets/template/css/bootstrap.min.css",
+              "src/assets/template/css/font-awesome.min.css",
+              "src/assets/template/css/linearicons.css",
+              "src/assets/template/css/owl.carousel.min.css",
+              "src/assets/template/css/owl.theme.default.min.css",
+              "src/assets/template/css/responsive.css" ,
+              "src/assets/template/css/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/template/js/bootsnav.js",
+              "src/assets/template/js/bootstrap.min.js",
+              "src/assets/template/js/custom.js",
+              "src/assets/template/js/jquery.js",
+              "src/assets/template/js/owl.carousel.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -87,12 +102,30 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css" ,
+              "src/assets/template/css/animate.css",
+              "src/assets/template/css/bootsnav.css",
+              "src/assets/template/css/bootstrap.min.css",
+              "src/assets/template/css/font-awesome.min.css",
+              "src/assets/template/css/linearicons.css",
+              "src/assets/template/css/owl.carousel.min.css",
+              "src/assets/template/css/owl.theme.default.min.css",
+              "src/assets/template/css/responsive.css" ,
+              "src/assets/template/css/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/template/js/bootsnav.js",
+              "src/assets/template/js/bootstrap.min.js",
+              "src/assets/template/js/custom.js",
+              "src/assets/template/js/jquery.js",
+              "src/assets/template/js/owl.carousel.min.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
